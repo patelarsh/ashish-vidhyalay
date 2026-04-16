@@ -59,7 +59,7 @@ export default async function handler(req: VercelRequest, res: VercelResponse) {
               <li><strong>મોબાઈલ નંબર:</strong> ${formData.mobile}</li>
             </ul>
             <p>આભાર,<br />આશિષ વિદ્યાલય, કેશરપુરા</p>
-            <p>Manage By SpaceOn Technology</p>
+            
           </div>
         `,
       }),
