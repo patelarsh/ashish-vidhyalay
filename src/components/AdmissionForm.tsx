@@ -131,7 +131,7 @@ export default function AdmissionForm() {
         <div className="relative inline-block mb-6">
           <div className="w-48 h-48 mx-auto flex items-center justify-center">
             <img 
-              src="https://admission.ashishvidhyalay.com/logo.png" 
+              src="https://ashishvidhyalay.com/ADM/logo.png" 
               alt="Ashish Vidhyalay Logo" 
               className="w-full h-full object-contain drop-shadow-2xl"
               referrerPolicy="no-referrer"
