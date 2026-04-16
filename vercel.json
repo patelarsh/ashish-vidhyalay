@@ -7,3 +7,12 @@
     { "source": "/(.*)", "destination": "/index.html" }
   ]
 }
+
+
+
+
+
+git add .
+git commit -m "Ready for Vercel deployment"
+git remote add origin https://github.com/patelarsh/ashish-vidhyalay.git 
+git push -u origin main
