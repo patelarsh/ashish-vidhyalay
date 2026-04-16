@@ -51,6 +51,7 @@ export default async function handler(req: VercelRequest, res: VercelResponse) {
             <table role="presentation" width="100%" cellpadding="0" cellspacing="0" style="max-width: 640px; margin: 0 auto; background: #ffffff; border-radius: 18px; overflow: hidden; border: 1px solid #e5e7eb;">
               <tr>
                 <td style="background: #1e3a8a; padding: 24px 30px; text-align: center;">
+                  <p style="margin: 0 0 8px; color: #c7d2fe; font-size: 12px; letter-spacing: 0.08em; text-transform: uppercase;">ઉન્નતિ એજ્યુકેશન ટ્રસ્ટ</p>
                   <h1 style="margin: 0; color: #ffffff; font-size: 22px;">આશિષ વિદ્યાલય</h1>
                   <p style="margin: 8px 0 0; color: #dbeafe; font-size: 14px;">Admission Application Received</p>
                 </td>
